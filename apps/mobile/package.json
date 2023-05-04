@@ -1,0 +1,20 @@
+{
+  "name": "mobile",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "*",
+    "@testing-library/jest-native": "*",
+    "@testing-library/react-native": "*",
+    "metro-config": "*",
+    "react": "*",
+    "react-native": "*",
+    "react-native-config": "*",
+    "react-native-svg": "*",
+    "styled-components": "*",
+    "react-i18next": "*",
+    "i18next": "*",
+    "react-native-reanimated": "*",
+    "react-native-gesture-handler": "*"
+  }
+}

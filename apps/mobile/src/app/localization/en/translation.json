@@ -1,0 +1,22 @@
+{
+  "slider": {
+    "slide-1": {
+      "title": "Absolutely free app",
+      "text": "Application was created with love and enthusiasm. Without any sponsorship thats why it's still free."
+    },
+    "slide-2": {
+      "title": "First online see-battle",
+      "text": "Invite your friends. Make your own fight with your friends. Become a leadership."
+    },
+    "slide-3": {
+      "title": "Registration",
+      "text": "To make stats you need to create you account. Don't worry you wouldn't have any advertisement and spam. Nobody will see you email, only you nickname. Anyway you can delete your account later.",
+      "confirmation": {
+        "title": "You need to confirm that you agree.",
+        "text": "I agree"
+      },
+      "sign-in-button": "Sign In",
+      "sign-up-button": "Sign Up"
+    }
+  }
+}
